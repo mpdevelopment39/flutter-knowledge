@@ -30,4 +30,26 @@ NOTA: En la capa data suelo optar por utilizar únicamente los repositorios, sin
    - Empecé desarrollando aplicaciones sencillas y cuyo desarrollo me llevase poco tiempo para conseguir publicar la mayor cantidad posible de aplicaciones y obtener unos ingresos recurrentes que me permitisen mantenerme económicamente. Posteriormente, comencé a desarrollar proyectos más complejos y que me motivaban más, pero que también requerían mucho más trabajo y dedicación. Todavía sigo trabajando en varios proyectos de este modo con varios compañeros que me acompañan en esta aventura, desde amigos Backends, hasta amigos especializados en Marketing y posicionamiento.
 
  ### Profesionales
-   - 
+   - <strong>The Cocktail:</strong> Empresa en la que me encuentro actualmente trabajando 100% en proyectos Flutter como Senior Developer.
+   - <strong>Opendit:</strong> Mi último proyecto profesional y el más amplio hasta la fecha. Este fue el primer proyecto en el que trabaje en un equipo de Producto, muy diferente a la manera de funcionar en un equipo de desarrollo de software. En este caso no era un proyecto cerrado sino un proyecto que continuamente estaba en iteración, añadiendoles nuevas funcionalidades, realizando cambios en las interfaces y mejorando el rendimiento. Este proyecto incluía las siguientes funcionalidades entre  otras:
+      -  Autenticación vía usuario y contraseña y Magic-Link
+      -  Implementación de deep-linking para reseteo de contraseña y verificación de registro.
+      -  Implementación de sistema de desvío de llamadas con Audio y video de entrada y audio de salida a través de WebRTC y Callkit entre otros.
+      -  Implementación de cambios en la app en tiempo real vía websockets.
+      -  Implementación de un registro de actividad con visualización de todos los eventos realizados por los usuarios.
+      -  Implementación de un sistema para realizar apertura de puertas físicas a través de diferentes medios:
+          - Vía in-app a través de un slider.
+          - Vía forcetouch.
+          - Vía widgets en iOS y Android.
+      - Implementación de sistema de analítica completo con las herramientas de Segment,Amplitude,Smartlook.
+      - Implementación de herramientas de marketing para la comunicación con los usuarios a través de OneSignal.
+      - Testing completo de la app (Unitarios, de Widgets y de integración).
+      - Implementación de base de datos local con cache a través de Isar para mejorar la carga inicial de los datos.
+      - Implementación de sistema de suscripciones a través de Qonversion, permitiendo a los usuarios tener una suscripción mensual o anual y acceder a un plan premium con funcionalides ilimitadas.
+   - <strong>Softphone Alisys:</strong> Tras finalizar el proyecto anterior, la empresa quedó muy satisfecha con el trabajo realizado y decidieron acometer un proyecto interno y que lo llevasemos a cabo con la misma tecnología, por lo que me propusieron comenzar este proyecto. En el tiempo que estuve en la compañía, me dió tiempo a dejar preparada la arquitectura inicial del proyecto y a implementar todo el diseño de interfaces de la aplicación completa.
+   - <strong>Asamblea de Madrid:</strong> Este fue el primer proyecto profesional en el que participé con está tecnología. Fue un proyecto muy motivador e inspirador, ya que era el principal desarrollador del proyecto, junto con otra persona a la que tuve que formar en dicha tecnología para que me ayudase a llegar en plazos a la hora de realizar la entrega. Consistía en una aplicación para iOS (Concretamente iPhones 8 y 11) para los diputados de la Asamblea de Madrid. En epoca COVID, para evitar congestiones y que los diputados tuviesen que ir presencialmente a la Asamblea decidieron desarrollar un proyecto, en este caso una app móvil que incluía las siguientes funcionalidades entre otras:
+       - Autenticación vía usuario y contraseña
+       - Autenticación vía biometría (FaceId y TouchId)
+       - Posibilidad de escuchar el audio de los plenos en tiempo real a traves de WebRTC.
+       - Posibilidad de realizar las votaciones vía telemáticas a través de websockets.
+       - Visualización del orden de los plenos, votaciones pendientes, votaciones ya realizadas...
