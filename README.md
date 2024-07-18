@@ -59,11 +59,11 @@ Las capas en las que estructuro mis proyectos son las siguientes:
 ## 📚 Conocimientos técnicos
 
  ### 🔄 Gestión de estados
-   - 🔹 <strong>Riverpod.</strong> Para mi el mejor que he probado hasta la fecha por la sencillez de su implementación y la potencia que tiene. Permite conseguir cualquier reactividad de una manera sencilla y con una curva de aprendizaje muy rápida.
-   - 🔹 <strong>Provider.</strong> Fue el primer gestor de estados "como tal" que he utilizado debido a su sencillez y potencia para cosas simples.
-   - 🔹 <strong>GetX.</strong> Conozco la librería y su implementación de observables como gestor de estados pero no la utilizo ni en mis proyectos personales ni profesionales.
-   - 🔹 <strong>SetState + StatefulWidgets.</strong> Utilizado para componentes independientes o widgets sencillos que tienen su propia gestión de estado interna.
-   - 🔹 <strong>Bloc/Qubit.</strong> Lo he probado anteriormente pero no lo uso profesionalmente porque para mi tiene mayor boilerplate y complejidad que Riverpod. Así como tener que explicarlo a terceras personas resulta más complejo que dar una formación rápida y la propia documentación oficial de Riverpod, que para mi está muy bién especificada.
+   - 🔵 <strong>Riverpod.</strong> Para mi el mejor que he probado hasta la fecha por la sencillez de su implementación y la potencia que tiene. Permite conseguir cualquier reactividad de una manera sencilla y con una curva de aprendizaje muy rápida.
+   - 🔵 <strong>Provider.</strong> Fue el primer gestor de estados "como tal" que he utilizado debido a su sencillez y potencia para cosas simples.
+   - 🔵 <strong>GetX.</strong> Conozco la librería y su implementación de observables como gestor de estados pero no la utilizo ni en mis proyectos personales ni profesionales.
+   - 🔵 <strong>SetState + StatefulWidgets.</strong> Utilizado para componentes independientes o widgets sencillos que tienen su propia gestión de estado interna.
+   - 🔵 <strong>Bloc/Qubit.</strong> Lo he probado anteriormente pero no lo uso profesionalmente porque para mi tiene mayor boilerplate y complejidad que Riverpod. Así como tener que explicarlo a terceras personas resulta más complejo que dar una formación rápida y la propia documentación oficial de Riverpod, que para mi está muy bién especificada.
 
 ### 🗄️ Almacenamiento local
   - 🟢 <strong>Shared Preferences.</strong> Utilizado para determinados proyectos sencillos y algunas funcionalidades que lo requieren como implementación de Widgets entre otros.
@@ -75,3 +75,23 @@ Las capas en las que estructuro mis proyectos son las siguientes:
   - 🔴 <strong>Segment.</strong> Herramienta utilizada como pasarela de los datos. Se realiza un trackeo de todos los eventos que realizan los usuarios en la aplicación, identificando a los usuarios, añadiendoles propiedades, etc y posteriormente se envían a las herramientas de terceros que se requieran como destino de los datos.
   - 🔴 <strong>Amplitude.</strong> Herramienta muy potente de analítica que permitía realizar dashboards, gráficas, segmentación de usuarios,...
   - 🔴 <strong>OneSignal.</strong> Herramienta de marketing para envíar comunicaciones a los usuarios vía email,mensajes in-app, notifiaciones push, mensajes sms... a través de un portal/dashboard web sin necesidad de tocar código o actualizar la aplicación para comunicar a los usuarios.
+
+### 📈 Testing
+  - 🟤 <strong>Unitarios.</strong> Para mi los fundamentales y prioritarios ya que dejan testeada toda la lógica de dominio y las reglas de negocio.
+  - 🟤 <strong>De Widgets.</strong> Útiles para corroborar que las interfaces se visualizan correctamente y cargan la información correspondiente.
+  - 🟤 <strong>De integración(E2E).</strong> Muy importantes para evitar tener que realizar las pruebas de manera manual. En mi caso particular, desarrollé varios tests de integración para un proyecto pero hubo que pararlos debido al ritmo de iteración tan ágil que teníamos y me era imposible mantenerlos actualizados en todo momento si queríamos llegar a las entregas a tiempo, como contrapartida, suponía realizar las baterías de pruebas de manera manual.
+
+### 📈 Varios
+ - 🟡 Implementación de <strong>Websockets para actualizar la app en tiempo real.</strong>
+ - 🟡 Implementación de <strong>Widgets.</strong>
+ - 🟡 Implementación de <strong>Forcetouch.</strong>
+ - 🟡 Implementación de <strong>autenticación biométrica (FaceID/TouchID).</strong>
+ - 🟡 Implementación de <strong>autenticación vía link-mágico.</strong>
+ - 🟡 Implementación de <strong>deep-links.</strong>
+ - 🟡 Implementación de <strong>desvío de llamadas con WebRTC.</strong>
+ - 🟡 Implementación de <strong>sistema de suscripciones a través de Qonversion.</strong>
+ - 🟡 Implementación de <strong>API de OpenAI</strong> para integrar IA en una aplicación.
+ - 🟡 Implementación de <strong>sistema de anuncios vía Google Admob.</strong>
+ - 🟡 Implementación de <strong>sistema de solicitud de valoraciones in-app.</strong>
+ - 🟡 Implementación de <strong>internacionalización de aplicaciones a diversos idiomas, currencies, fechas...</strong>
+ - 🟡 Implementación de <strong>animaciones diversas.</strong>
