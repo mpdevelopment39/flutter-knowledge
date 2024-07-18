@@ -76,22 +76,39 @@ Las capas en las que estructuro mis proyectos son las siguientes:
   - 🔴 <strong>Amplitude.</strong> Herramienta muy potente de analítica que permitía realizar dashboards, gráficas, segmentación de usuarios,...
   - 🔴 <strong>OneSignal.</strong> Herramienta de marketing para envíar comunicaciones a los usuarios vía email,mensajes in-app, notifiaciones push, mensajes sms... a través de un portal/dashboard web sin necesidad de tocar código o actualizar la aplicación para comunicar a los usuarios.
 
-### 📈 Testing
+### 👨‍🔬 Testing
   - 🟤 <strong>Unitarios.</strong> Para mi los fundamentales y prioritarios ya que dejan testeada toda la lógica de dominio y las reglas de negocio.
   - 🟤 <strong>De Widgets.</strong> Útiles para corroborar que las interfaces se visualizan correctamente y cargan la información correspondiente.
   - 🟤 <strong>De integración(E2E).</strong> Muy importantes para evitar tener que realizar las pruebas de manera manual. En mi caso particular, desarrollé varios tests de integración para un proyecto pero hubo que pararlos debido al ritmo de iteración tan ágil que teníamos y me era imposible mantenerlos actualizados en todo momento si queríamos llegar a las entregas a tiempo, como contrapartida, suponía realizar las baterías de pruebas de manera manual.
 
-### 📈 Varios
+### 🚀 Varios
  - 🟡 Implementación de <strong>Websockets para actualizar la app en tiempo real.</strong>
  - 🟡 Implementación de <strong>Widgets.</strong>
  - 🟡 Implementación de <strong>Forcetouch.</strong>
  - 🟡 Implementación de <strong>autenticación biométrica (FaceID/TouchID).</strong>
  - 🟡 Implementación de <strong>autenticación vía link-mágico.</strong>
  - 🟡 Implementación de <strong>deep-links.</strong>
- - 🟡 Implementación de <strong>desvío de llamadas con WebRTC.</strong>
+ - 🟡 Implementación de <strong>desvío de llamadas con WebRTC y Mediasoup.</strong>
  - 🟡 Implementación de <strong>sistema de suscripciones a través de Qonversion.</strong>
  - 🟡 Implementación de <strong>API de OpenAI</strong> para integrar IA en una aplicación.
  - 🟡 Implementación de <strong>sistema de anuncios vía Google Admob.</strong>
  - 🟡 Implementación de <strong>sistema de solicitud de valoraciones in-app.</strong>
  - 🟡 Implementación de <strong>internacionalización de aplicaciones a diversos idiomas, currencies, fechas...</strong>
  - 🟡 Implementación de <strong>animaciones diversas.</strong>
+
+ ### 🏫 Cursos
+ - 🟣 Flutter desde cero – Guía completa con arquitectura limpia (En curso)
+ - 🟣 Flutter Web: Aplicaciones y páginas web profesionales (En curso)
+ - 🟣 Flutter – Móvil: De cero a experto. Edición 2023
+ - 🟣 Flutter Advanced Course
+ - 🟣 Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+ - 🟣 Flutter Intermediate Course
+ - 🟣 Flutter Beginners Course
+ - 🟣 Flutter: Tu guía completa de desarrollo para IOS y Android
+ - 🟣 Flutter Intermedio: Diseños profesionales y animaciones
+ - 🟣 Dart & introducción a Flutter 2018:
+
+### 📚 Libros
+- 📕 Flutter complete Reference - Alberto Miola
+- 📗 Learn Google Flutter Fast - Mark Clow
+- 📘 Flutter Engineering - Majid Hajian
