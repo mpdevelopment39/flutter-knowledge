@@ -65,4 +65,13 @@ Las capas en las que estructuro mis proyectos son las siguientes:
    - 🔹 <strong>SetState + StatefulWidgets.</strong> Utilizado para componentes independientes o widgets sencillos que tienen su propia gestión de estado interna.
    - 🔹 <strong>Bloc/Qubit.</strong> Lo he probado anteriormente pero no lo uso profesionalmente porque para mi tiene mayor boilerplate y complejidad que Riverpod. Así como tener que explicarlo a terceras personas resulta más complejo que dar una formación rápida y la propia documentación oficial de Riverpod, que para mi está muy bién especificada.
 
+### 🗄️ Almacenamiento local
+  - 🟢 <strong>Shared Preferences.</strong> Utilizado para determinados proyectos sencillos y algunas funcionalidades que lo requieren como implementación de Widgets entre otros.
+  - 🟢 <strong>Secure Storage.</strong> Lo utilicé en un proyecto para almacenar información en el dispositivo de manera segura.
+  - 🟢 <strong>Isar.</strong> Utilizada como bbdd de almacenamiento local para cachear información en el dispositivo y poder acceder a ella de manera instantanea mientras se solicitaba la información al backend en segundo plano. La verdad que me ha dado increibles resultados de rendimiento.
 
+### 📈 Herramientas de analítica/marketing
+  - 🔴 <strong>Smartlook.</strong> Herramienta muy potente para realizar grabaciones de las sesiones de los usuarios en la aplicación/producto y poder comprender como interactuan y hacen uso con el producto nuestros usuarios.
+  - 🔴 <strong>Segment.</strong> Herramienta utilizada como pasarela de los datos. Se realiza un trackeo de todos los eventos que realizan los usuarios en la aplicación, identificando a los usuarios, añadiendoles propiedades, etc y posteriormente se envían a las herramientas de terceros que se requieran como destino de los datos.
+  - 🔴 <strong>Amplitude.</strong> Herramienta muy potente de analítica que permitía realizar dashboards, gráficas, segmentación de usuarios,...
+  - 🔴 <strong>OneSignal.</strong> Herramienta de marketing para envíar comunicaciones a los usuarios vía email,mensajes in-app, notifiaciones push, mensajes sms... a través de un portal/dashboard web sin necesidad de tocar código o actualizar la aplicación para comunicar a los usuarios.
