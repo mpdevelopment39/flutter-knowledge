@@ -32,6 +32,7 @@ Las capas en las que estructuro mis proyectos son las siguientes:
    - Empecé desarrollando aplicaciones sencillas y cuyo desarrollo me llevase poco tiempo para conseguir publicar la mayor cantidad posible de aplicaciones y obtener unos ingresos recurrentes que me permitisen mantenerme económicamente. Posteriormente, comencé a desarrollar proyectos más complejos y que me motivaban más, pero que también requerían mucho más trabajo y dedicación. Todavía sigo trabajando en varios proyectos de este modo con varios compañeros que me acompañan en esta aventura, desde amigos Backends, hasta amigos especializados en Marketing y posicionamiento.
 
    - En la actualidad estoy trabajando en 2 proyectos paralelamente:
+
     ⚖️ Asistente Legal con IA. Este proyecto ha sido muy entretenido de desarrollar y todavía sigo incluyendo nuevas funcionalidades y mantenimiento. Incluye las siguientes funcionalidades:
        - Iniciar una conversación con un abogado especializado en la legislación del país que el usuario quiera configurar.
        - Iniciar una conversación con un abogado especializado en cualquier area concreta de derecho que el usuario haya solicitad. Derecho civil, penal, fiscal...
@@ -41,6 +42,7 @@ Las capas en las que estructuro mis proyectos son las siguientes:
        - Posibilidad de compartir mensajes.
        - Dispone de un diccionario legal para consultar cualquier término legal que considere el usuario. También incluye 300 definiciones predefinidas.
        - Menu de ajustes en el que el usuario puede modificar diversas configuraciones como el país de legislación, el idioma de la app, el tema y el formato de respuesta de la IA.
+
     🎁 RegalOS - GiftOS. Este proyecto incorpora Inteligencia artificial para ayudar a los usuarios a encontrar el regalo perfecto para cualquier persona y cualquier ocasión. Es un sencillo asistente que permite al usuario encontrar los regalos perfectos tras rellenar unos sencillos pasos.
 
  ### 💻 Profesionales
