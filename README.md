@@ -31,8 +31,20 @@ Las capas en las que estructuro mis proyectos son las siguientes:
     
    - Empecé desarrollando aplicaciones sencillas y cuyo desarrollo me llevase poco tiempo para conseguir publicar la mayor cantidad posible de aplicaciones y obtener unos ingresos recurrentes que me permitisen mantenerme económicamente. Posteriormente, comencé a desarrollar proyectos más complejos y que me motivaban más, pero que también requerían mucho más trabajo y dedicación. Todavía sigo trabajando en varios proyectos de este modo con varios compañeros que me acompañan en esta aventura, desde amigos Backends, hasta amigos especializados en Marketing y posicionamiento.
 
+   - En la actualidad estoy trabajando en 2 proyectos paralelamente:
+    ⚖️ Asistente Legal con IA. Este proyecto ha sido muy entretenido de desarrollar y todavía sigo incluyendo nuevas funcionalidades y mantenimiento. Incluye las siguientes funcionalidades:
+       - Iniciar una conversación con un abogado especializado en la legislación del país que el usuario quiera configurar.
+       - Iniciar una conversación con un abogado especializado en cualquier area concreta de derecho que el usuario haya solicitad. Derecho civil, penal, fiscal...
+       - Mantener un historial de las conversaciones mantenidas.
+       - Posibilidad de enviar mensajes al chat vía voz.
+       - Posibilidad de escuchar los mensajes de respuesta vía voz.
+       - Posibilidad de compartir mensajes.
+       - Dispone de un diccionario legal para consultar cualquier término legal que considere el usuario. También incluye 300 definiciones predefinidas.
+       - Menu de ajustes en el que el usuario puede modificar diversas configuraciones como el país de legislación, el idioma de la app, el tema y el formato de respuesta de la IA.
+    🎁 RegalOS - GiftOS. Este proyecto incorpora Inteligencia artificial para ayudar a los usuarios a encontrar el regalo perfecto para cualquier persona y cualquier ocasión. Es un sencillo asistente que permite al usuario encontrar los regalos perfectos tras rellenar unos sencillos pasos.
+
  ### 💻 Profesionales
-   - 📱 <strong>The Cocktail:</strong> Empresa en la que me encuentro actualmente trabajando 100% en proyectos Flutter como Senior Developer.
+   - 📱 <strong>The Cocktail:</strong> Empresa en la que me encuentro actualmente trabajando 100% en proyectos Flutter como Senior Developer. Actualmente me encuentro trabajando en el desarrollo de una app para un Banco de inversión. Un proyecto muy ambicioso con muchas funcionalidades interesantes.
    - 📱 <strong>Opendit:</strong> Mi último proyecto profesional y el más amplio hasta la fecha. Este fue el primer proyecto en el que trabaje en un equipo de Producto, muy diferente a la manera de funcionar en un equipo de desarrollo de software. En este caso no era un proyecto cerrado sino un proyecto que continuamente estaba en iteración, añadiendoles nuevas funcionalidades, realizando cambios en las interfaces y mejorando el rendimiento. Este proyecto incluía las siguientes funcionalidades entre  otras:
       -  Autenticación vía usuario y contraseña y Magic-Link
       -  Implementación de deep-linking para reseteo de contraseña y verificación de registro.
@@ -70,6 +82,14 @@ Las capas en las que estructuro mis proyectos son las siguientes:
   - 🟢 <strong>Secure Storage.</strong> Lo utilicé en un proyecto para almacenar información en el dispositivo de manera segura.
   - 🟢 <strong>Isar.</strong> Utilizada como bbdd de almacenamiento local para cachear información en el dispositivo y poder acceder a ella de manera instantanea mientras se solicitaba la información al backend en segundo plano. La verdad que me ha dado increibles resultados de rendimiento.
 
+### 🗄️ Herramientas de monetización
+  - 🟠 <strong>Admob.</strong> Utilizado para integrar anuncios en mis aplicaciones iOS y Android. Banners, Interstitials y Rewarded videos.
+  - 🟠 <strong>Meta Audience Network.</strong> Utilizado para integrar anuncios en mis aplicaciones iOS y Android. Banners, Interstitials y Rewarded videos.
+  - 🟠 <strong>Appodeal.</strong> Utilizado para integrar anuncios en mis aplicaciones iOS y Android. Banners, Interstitials y Rewarded videos. Funciona muy bien ya que es una herramienta de mediación para conseguir los mejores resultados.
+  - 🟠 <strong>Qonversion.</strong> SDK integrado en el proyecto de Opendit para integrar compras de productos de suscripción en las stores.
+  - 🟠 <strong>RevenueCat.</strong> SDK integrado en proyectos personales para integrar compras de productos de suscripción en las stores.
+  - 🟠 <strong>Superwall.</strong> SDK que permite crear paywalls dinámicos y gestionarlos sin necesidad de publicar nuevas versiones. Dispone de un dashboard con templates para poder escoger el paywall que queramos implementar. También nos permite realizar testing A/B para conseguir mejorar las conversiones y tener métricas de nuestros paywalls.
+    
 ### 📈 Herramientas de analítica/marketing
   - 🔴 <strong>Smartlook.</strong> Herramienta muy potente para realizar grabaciones de las sesiones de los usuarios en la aplicación/producto y poder comprender como interactuan y hacen uso con el producto nuestros usuarios.
   - 🔴 <strong>Segment.</strong> Herramienta utilizada como pasarela de los datos. Se realiza un trackeo de todos los eventos que realizan los usuarios en la aplicación, identificando a los usuarios, añadiendoles propiedades, etc y posteriormente se envían a las herramientas de terceros que se requieran como destino de los datos.
@@ -95,6 +115,8 @@ Las capas en las que estructuro mis proyectos son las siguientes:
  - 🟡 Implementación de <strong>sistema de solicitud de valoraciones in-app.</strong>
  - 🟡 Implementación de <strong>internacionalización de aplicaciones a diversos idiomas, currencies, fechas...</strong>
  - 🟡 Implementación de <strong>animaciones diversas.</strong>
+ - 🟡 Implementación de <strong>herramientas de verificación de documentos como sumsub y ElectronicID.</strong>
+ - 🟡 Implementación de <strong>herramientas de seguridad como Revelock.</strong>
 
  ### 🏫 Cursos
  - 🟣 Flutter desde cero – Guía completa con arquitectura limpia (En curso)
